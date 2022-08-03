@@ -2,8 +2,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dxsooo&show_icons=true&include_all_commits=true&count_private=true&hide=prs,contribs)
 
-- Working on data livecycle (collection, annotation, intergration, management, etc) of **AI** and **AutoDrive**
-- Graduated from BUPT in 2017 with master degree
+- :paperclip: Working on data livecycle (collection, annotation, intergration, management, etc) of **AI** and **AutoDrive**
+- :mortar_board: Graduated from BUPT in 2017 with master degree
 
 #### Languages
 
@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxsooo&layout=compact&langs_count=6)
 
-- Currently working with **Go/Python**
+- :wrench: Currently working with **Go/Python**
 
