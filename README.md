@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dxsooo&show_icons=true&include_all_commits=true&count_private=true&hide=prs,contribs)
 
-- :paperclip: Working on data livecycle (collection, annotation, intergration, management, etc) of **AI** and **AutoDrive**
+- :dart: Focus on data livecycle (aggregation, annotation, intergration, management, etc) of **AI** and **AutoDrive**
 - :mortar_board: Graduated from BUPT in 2017 with master degree
 
 #### Languages
