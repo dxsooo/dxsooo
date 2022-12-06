@@ -1,10 +1,10 @@
-## Hi there 👋
+## :wave: Hi there
 
 :tada: Welcome to my profile. I’m Jiajie Han (aka dxs, dxsooo, ZeoHan)
 
 - :monocle_face: Currently focus on data life cycle (aggregation, annotation, integration, management, etc) of **AI** and **AutomaticDrive**
 - :man_technologist: Currently coding with **Golang/Python**
-- :man_student: Graduated from BUPT in 2017 with master degree
+- :man_student: Graduated from BUPT in 2017 with master of EE degree
 
 ### :rocket: Projects
 
@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dxsooo&show_icons=true&include_all_commits=true&count_private=true&hide=prs,contribs)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dxsooo&show_icons=true&include_all_commits=true&count_private=true&line_height=20)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxsooo&layout=compact&langs_count=6)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=dxsooo&&column=-1&margin-w=13)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dxsooo&theme=github)
