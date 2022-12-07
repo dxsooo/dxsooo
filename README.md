@@ -28,13 +28,11 @@
 
 ### :hammer_and_wrench: Skills
 
-**Languages, frameworks and libraries**
+<!-- **Languages, frameworks and libraries** -->
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg' width=32>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg' width=32>
 
-**Tools, databases and storage**
-
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg' width=32>
+<!-- **Tools, databases and storage** -->
 
 ### :chart_with_upwards_trend: Statistics
 
@@ -42,5 +40,6 @@
 
 ![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dxsooo&theme=github)
 
-<img src="https://github-profile-trophy.vercel.app/?username=dxsooo&&column=-1&margin-w=10" style="margin-left: auto;
-  margin-right: auto; display: block;">
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dxsooo&&column=-1&margin-w=13">
+</p>
