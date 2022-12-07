@@ -28,29 +28,13 @@
 
 ### :hammer_and_wrench: Skills
 
-**Languages and frameworks**
+**Languages, frameworks and libraries**
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg' width=32>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width=32>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' width=32>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width=32>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg' width=32>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg' width=32>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg' width=32>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg' width=32>
 
-**Databases and storage**
+**Tools, databases and storage**
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' width=32>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' width=32>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg' width=32>
-
-**Tools**
-
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' width=32>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' width=32>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width=32>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg' width=32>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg' width=32>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' width=32><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg' width=32>
 
 ### :chart_with_upwards_trend: Statistics
 
@@ -71,6 +55,6 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dxsooo&show_icons=true&include_all_commits=true&count_private=true&line_height=20)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxsooo&layout=compact&langs_count=6)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dxsooo&&column=-1&margin-w=13)
-
 ![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dxsooo&theme=github)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=dxsooo&&column=-1)
