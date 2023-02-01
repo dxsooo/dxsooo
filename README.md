@@ -3,7 +3,7 @@
 :tada: Welcome to my profile. I’m Jiajie Han (aka dxs, dxsooo, ZeoHan)
 
 - :monocle_face: Currently focus on data life cycle (aggregation, annotation, integration, management, etc) of **AI** and **AutomaticDrive**
-- :man_technologist: Currently coding with **Golang/Python**
+- :man_technologist: Currently coding with **Golang/Python/Vue**
 - :man_student: Graduated from BUPT in 2017 with master of EE degree
 
 ### :rocket: Projects
@@ -13,6 +13,7 @@
 **Data aggregation**
 
 [![VideoDownload](https://github-readme-stats.vercel.app/api/pin/?username=dxsooo&repo=VideoDownload)](https://github.com/dxsooo/VideoDownload)
+[![ShortVideoCrawl](https://github-readme-stats.vercel.app/api/pin/?username=dxsooo&repo=ShortVideoCrawl)](https://github.com/dxsooo/ShortVideoCrawl)
 [![ImageCrawl](https://github-readme-stats.vercel.app/api/pin/?username=dxsooo&repo=ImageCrawl)](https://github.com/dxsooo/ImageCrawl)
 
 **Useful tools**
