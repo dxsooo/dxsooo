@@ -21,11 +21,18 @@
 [![docker-qt](https://github-readme-stats.vercel.app/api/pin/?username=dxsooo&repo=docker-qt)](https://github.com/dxsooo/docker-qt)
 [![feishu-notifier-bot](https://github-readme-stats.vercel.app/api/pin/?username=dxsooo&repo=feishu-notifier-bot)](https://github.com/dxsooo/feishu-notifier-bot)
 
-**Other applications**
+<!-- **Other applications**
 
-[![nCoVOutBreak](https://github-readme-stats.vercel.app/api/pin/?username=dxsooo&repo=nCoVOutBreak)](https://github.com/dxsooo/nCoVOutBreak)
+[![nCoVOutBreak](https://github-readme-stats.vercel.app/api/pin/?username=dxsooo&repo=nCoVOutBreak)](https://github.com/dxsooo/nCoVOutBreak) -->
 
 :mailbox: Reach me with issues and pull requests in your interest project.
+
+### :mega: Ads
+
+- 组了个名：用成员名字起一个谐音成语作为组名
+
+![namexros](./assets/gh_72fdb25cc237_258.jpg)
+
 
 ### :hammer_and_wrench: Skills
 
