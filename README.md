@@ -14,11 +14,12 @@
 
 [![VideoDownload](https://github-readme-stats.vercel.app/api/pin/?username=dxsooo&repo=VideoDownload)](https://github.com/dxsooo/VideoDownload)
 [![ShortVideoCrawl](https://github-readme-stats.vercel.app/api/pin/?username=dxsooo&repo=ShortVideoCrawl)](https://github.com/dxsooo/ShortVideoCrawl)
-[![ImageCrawl](https://github-readme-stats.vercel.app/api/pin/?username=dxsooo&repo=ImageCrawl)](https://github.com/dxsooo/ImageCrawl)
+<!-- [![ImageCrawl](https://github-readme-stats.vercel.app/api/pin/?username=dxsooo&repo=ImageCrawl)](https://github.com/dxsooo/ImageCrawl) -->
 
 **Useful tools**
 
-[![docker-qt](https://github-readme-stats.vercel.app/api/pin/?username=dxsooo&repo=docker-qt)](https://github.com/dxsooo/docker-qt)
+<!-- [![docker-qt](https://github-readme-stats.vercel.app/api/pin/?username=dxsooo&repo=docker-qt)](https://github.com/dxsooo/docker-qt) -->
+
 [![feishu-notifier-bot](https://github-readme-stats.vercel.app/api/pin/?username=dxsooo&repo=feishu-notifier-bot)](https://github.com/dxsooo/feishu-notifier-bot)
 
 <!-- **Other applications**
