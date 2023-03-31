@@ -29,10 +29,9 @@
 
 ### :mega: Ads
 
-- 组了个名：用成员名字起一个谐音成语作为组名
-
-![namexros](./assets/gh_72fdb25cc237_258.jpg)
-
+|组了个名：用成员名字起一个谐音成语作为组名|
+|-|
+|<p style="display:flex; justify-content: center;"><img src="./assets/gh_72fdb25cc237_258.jpg"/></p>|
 
 ### :hammer_and_wrench: Skills
 
@@ -44,7 +43,10 @@
 
 ### :chart_with_upwards_trend: Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dxsooo&show_icons=true&include_all_commits=true&count_private=true&line_height=20)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxsooo&layout=compact&langs_count=6)
+<p style="display:flex; justify-content: center;">
+<img src="https://github-readme-stats.vercel.app/api?username=dxsooo&show_icons=true&include_all_commits=true&count_private=true&line_height=20" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxsooo&layout=compact&langs_count=6" />
+</p>
 
 ![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dxsooo&theme=github)
 
