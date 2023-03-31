@@ -31,7 +31,7 @@
 
 |组了个名：用成员名字起一个谐音成语作为组名|
 |-|
-|<p style="display:flex; justify-content: center;"><img src="./assets/gh_72fdb25cc237_258.jpg"/></p>|
+|<p align="center"><img src="./assets/gh_72fdb25cc237_258.jpg"/></p>|
 
 ### :hammer_and_wrench: Skills
 
