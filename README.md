@@ -48,8 +48,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxsooo&layout=compact&langs_count=6" />
 </p> -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=dxsooo&show_icons=true&include_all_commits=true&count_private=true&line_height=20" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxsooo&layout=compact&langs_count=6" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/?username=dxsooo&show_icons=true&include_all_commits=true&count_private=true&line_height=20" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxsooo&layout=compact&langs_count=6" />
+</p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dxsooo&show_icons=true&include_all_commits=true&count_private=true&line_height=20)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dxsooo&layout=compact&langs_count=6)
