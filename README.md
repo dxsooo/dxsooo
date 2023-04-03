@@ -20,8 +20,8 @@
 
 <!-- [![docker-qt](https://github-readme-stats.vercel.app/api/pin/?username=dxsooo&repo=docker-qt)](https://github.com/dxsooo/docker-qt) -->
 
-[![feishu-notifier-bot](https://github-readme-stats.vercel.app/api/pin/?username=dxsooo&repo=feishu-notifier-bot)](https://github.com/dxsooo/feishu-notifier-bot)
 [![taobao-cookies](https://github-readme-stats.vercel.app/api/pin/?username=dxsooo&repo=taobao-cookies)](https://github.com/dxsooo/taobao-cookies)
+[![feishu-notifier-bot](https://github-readme-stats.vercel.app/api/pin/?username=dxsooo&repo=feishu-notifier-bot)](https://github.com/dxsooo/feishu-notifier-bot)
 
 <!-- **Other applications**
 
