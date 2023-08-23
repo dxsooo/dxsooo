@@ -51,7 +51,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxsooo&layout=compact&langs_count=6" />
 </p>
 
-![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dxsooo&theme=github)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dxsooo&theme=github)
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=dxsooo&&column=-1&margin-w=13" />
